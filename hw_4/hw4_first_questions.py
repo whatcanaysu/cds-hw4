@@ -10,6 +10,7 @@ def triple(x):
 
 triple(7)
 
+
 # 2)
 # Create a function named "subtract" that
 # takes two parameters and returns the result of
