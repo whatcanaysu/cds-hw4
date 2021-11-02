@@ -21,8 +21,6 @@ def subtract(x,y):
 
 subtract(7,3)
 
-
-
 # 3)
 # Create a function called "dictionary_maker"
 # that has one parameter: a list of 2-tuples.
