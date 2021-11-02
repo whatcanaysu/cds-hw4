@@ -13,6 +13,8 @@
 example = {'Spain': [4, 8, 2, 0, 1], 'France': [2, 3, 6],
            'Italy': [6, 8, 1, 7]}
 
+
+
 # 7)
 # Create a function called "total_registered_cases"
 # that has 2 parameters:
